@@ -18,7 +18,7 @@
 
 ### 🔹 📌 Featured Projects
 - 🔹 [My Cybersecurity Notes](https://github.com/BP-Eineir/cybersecurity-notes)
-- 🔹 [TryHackMe Progress](https://github.com/BP-Einier/tryhackme)
+- 🔹 [TryHackMe Progress](https://github.com/BP-Eineir/tryhackme-progress)
 
 ---
 
