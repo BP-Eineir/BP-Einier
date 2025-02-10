@@ -17,7 +17,7 @@
 - 📝 VS Code, GitHub
 
 ### 🔹 📌 Featured Projects
-- 🔹 [My Cybersecurity Notes](https://github.com/BP-Einier/cybersecurity-notes)
+- 🔹 [My Cybersecurity Notes](https://github.com/BP-Eineir/cybersecurity-notes)
 - 🔹 [TryHackMe Progress](https://github.com/BP-Einier/tryhackme)
 
 ---
